@@ -1,4 +1,4 @@
-/****** Object:  Table [dbo].[UlkeTelefonKodlari]    Script Date: 8.01.2022 16:04:06 ******/
+Object:  Table [dbo].[UlkeTelefonKodlari]
 SET ANSI_NULLS ON
 GO
 SET QUOTED_IDENTIFIER ON
